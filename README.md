@@ -20,9 +20,9 @@
 ## #1 💰 MyRealCoins
 <h3>Organize your budget. Plan the future. get rich! Enjoy it for free.</h3>
 
-MyRealCoins is an application that helps you manage your personal budget by automatic creation of monthly budgets, create detailed analysis of operations using charts, ability to mark payments on the map <strong>and much more</strong>!
+<p>MyRealCoins is an application that helps you manage your personal budget by automatic creation of monthly budgets, create detailed analysis of operations using charts, ability to mark payments on the map <strong>and much more</strong>!</p>
 
-![myrealcoins](https://github.com/Nieopodal/Nieopodal/assets/123494717/c42c4f6c-a551-48ed-aa2c-4603af59dc1b)
+![myrealcoins](https://github.com/Nieopodal/Nieopodal/assets/123494717/168bf4d1-71ea-4313-8a5e-da429bd79a23)
 
 <p>Technologies: TypeScript | React.js | Redux | react-hook-form | Express.js | MySQL | Nodemailer | JWT | Tailwind CSS | DaisyUI and more...</p>
 
