@@ -22,7 +22,7 @@
 
 <p>MyRealCoins is an application that helps you manage your personal budget by automatic creation of monthly budgets, create detailed analysis of operations using charts, ability to mark payments on the map <strong>and much more</strong>!</p>
 
-![myrealcoins](https://github.com/Nieopodal/Nieopodal/assets/123494717/168bf4d1-71ea-4313-8a5e-da429bd79a23)
+![myrealcoins-app](https://github.com/Nieopodal/Nieopodal/assets/123494717/b413b84f-e5c7-4ed4-b4fe-1a71400cb32a)
 
 <p>Technologies: TypeScript | React.js | Redux | react-hook-form | Express.js | MySQL | Nodemailer | JWT | Tailwind CSS | DaisyUI and more...</p>
 
@@ -49,7 +49,8 @@ MegaK HeadHunter is an IT employment-focused platform, which allows the students
 
 <h3>My role in this project: <strong>Scrum Master and Lead React Developer</strong>.</h4>
 
-![hh](https://github.com/Nieopodal/Nieopodal/assets/123494717/5e5b89a2-8fce-4978-b2cb-a65eaa213628)
+![hh](https://github.com/Nieopodal/Nieopodal/assets/123494717/e656a283-07b8-4bd1-8a8f-cabc91a0aa16)
+
 
 <p>Technologies: TypeScript | React.js | Redux | react-hook-form | Nest.js | TypeORM | Nodemailer | JWT | Tailwind CSS | DaisyUI and more...</p>
 
