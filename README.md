@@ -41,7 +41,7 @@ Backend: *[https://github.com/Nieopodal/myrealcoins-back ](https://github.com/Ni
 *[https://myrealcoins.networkmanager.pl](https://myrealcoins.networkmanager.pl/)*
 
 
-## #2 MegaK HeadHunter
+## #2 🎯 MegaK HeadHunter
 
 MegaK HeadHunter is a project made by participants of a Polish webdev course called MegaKurs. It was a team-based (agile/scrum) effort, that was assigned as a final project.
 
@@ -67,7 +67,7 @@ Backend: *[https://github.com/Nieopodal/headhunter-back ](https://github.com/Nie
 
 *[https://headhunter.mwyso.usermd.net/](https://headhunter.mwyso.usermd.net/)*
 
-## #3 Preschool App
+## #3 🎈 Preschool App
 
 The aim of the project was to create a real website for a functioning kindergarten. The project had to meet the requirements for public websites operating in the European Union.
 
