@@ -20,16 +20,7 @@
 ## #1 💰 MyRealCoins
 <h3>Organize your budget. Plan the future. get rich! Enjoy it for free.</h3>
 
-**MyRealCoins is an application that helps you manage your personal budget by:**
-
-+ Automatic creation of monthly budgets
-+ Create detailed analysis of operations using charts
-+ Quickly add operations divided into many categories
-+ Adding receipts to payments
-+ Ability to mark payments on the map
-+ Planning the future by adding cyclical operations (so-called schemes)
-+ Help in creating a financial cushion
-+ Possibility to view previous periods
+MyRealCoins is an application that helps you manage your personal budget by automatic creation of monthly budgets, create detailed analysis of operations using charts, ability to mark payments on the map <strong>and much more</strong>!
 
 ![myrealcoins](https://github.com/Nieopodal/Nieopodal/assets/123494717/c42c4f6c-a551-48ed-aa2c-4603af59dc1b)
 
@@ -86,9 +77,7 @@ The aim of the project was to create a real website for a functioning kindergart
 + **Server-side rendering**
 + **Administration panel** for adding news and photo albums
 + **Responsive Web Design**
-+ **Easy update** of static data of all pages (one .JSON file)
-+ Author's design
-+ Author's photo gallery script
++ **Easy update** of static data of all pages
 
 ![Main1](https://github.com/Nieopodal/preschool-app/assets/123494717/4f6f0888-f8c5-4393-a9f3-ed7405299e54)
 
