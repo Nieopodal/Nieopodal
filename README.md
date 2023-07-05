@@ -80,7 +80,7 @@ The aim of the project was to create a real website for a functioning kindergart
 + **Responsive Web Design**
 + **Easy update** of static data of all pages
 
-![Main1](https://github.com/Nieopodal/preschool-app/assets/123494717/4f6f0888-f8c5-4393-a9f3-ed7405299e54)
+![preschool](https://github.com/Nieopodal/Nieopodal/assets/123494717/e8f8d94f-afc8-4f4f-a633-c43d0d421722)
 
 <p>Technologies: TypeScript | Nest.js | TypeORM | Express-Handlebars | JWT | Tailwind CSS | DaisyUI and more...</p>
 
@@ -90,5 +90,5 @@ The aim of the project was to create a real website for a functioning kindergart
 
 <h3>🏠 Homepage:</h3>
 
-*[https://pp23.jastrzebie.pl/](https://pp23.jastrzebie.pl/)*
+*[https://pp23.jastrzebie.pl/](https://pp23.jastrzebie.pl/)* (under construction)
 
