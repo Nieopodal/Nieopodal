@@ -90,5 +90,5 @@ The aim of the project was to create a real website for a functioning kindergart
 
 <h3>🏠 Homepage:</h3>
 
-*[https://pp23.jastrzebie.pl/](https://pp23.jastrzebie.pl/)* (under construction)
+*[https://pp23.jastrzebie.pl/](https://pp23.jastrzebie.pl/)*
 
