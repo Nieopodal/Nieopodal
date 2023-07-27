@@ -7,7 +7,6 @@
 <h3>I’m currently learning:</h3>
 
 * Next.js
-* Angular
 
 <h3>Connect with me:</h3>
 <p align="left">
